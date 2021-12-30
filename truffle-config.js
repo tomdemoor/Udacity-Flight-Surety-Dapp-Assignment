@@ -4,10 +4,11 @@
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
-const infuraKey = "d168d7f81744472789b8da6a30c84b21";
+//add your ID
+const infuraKey = "";
 
 //satoshi bleak record veteran renew mimic affair oven flash measure pretty feed (local)
-var mnemonic = "merry ocean yard orchard barely wonder guide agree payment conduct embrace stadium";
+var mnemonic = "" // your key;
 
 
 module.exports = {
